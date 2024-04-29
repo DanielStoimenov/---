@@ -1,0 +1,24 @@
+h1{color: red;}
+h2{color: #14a411;}
+h4 {margin-left: 35px;}
+table {border: 1px solid black; margin-left: 35px;}
+blockquote { font-weight: bold; font-style: italic; border-bottom: 1px solid #aaa; color: #006699; }
+p:first-letter { color: #F48580; font-weight: bold; font-size:30px; font-family: 'Helvetica', bold;}
+
+header{background-color:#50f9a0;padding:15px 15px;text-align:center; height:150px;}
+body {background-color:#c0fed7;}
+footer{background-color:#50f9a0; text-align:center; padding:10px; margin-top:7px; color: black; font-size:0.8em;}
+
+.right{ float:right;margin-left: 20px;border-radius:30px;box-shadow: 4px 4px 5px red;}
+.mcol {column-count: 3; column-gap: 50px; column-rule: 2px #F48580 double;}
+
+a:link{color: green;}
+a:hover{color: green;text-decoration: underline;}
+a[href="https://bg.wikipedia.org/wiki/%D0%95%D0%B2%D0%B5%D1%80%D0%B5%D1%81%D1%82"] {margin-left: 30px;}
+
+#one {font-family: Arial;font-weight: bold;}
+#navigation {float: left; width: 100%; background: #0B4353;} 
+#navigation ul{margin: 0; padding: 0;}
+#navigation ul li {list-style-type: none; display: inline;}
+#navigation li a {display: block; float: left; text-decoration: none; font: 13px Arial, Helvetica, sans-serif; text-transform: uppercase; padding: 5px 10px; color: #FFFF33;   border-right: 1px solid #fff;}	
+#navigation li a:hover {background: #FFCC00; color: red; }
